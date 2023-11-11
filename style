@@ -1,0 +1,28 @@
+body {
+  font-family: "Raleway", sans-serif;
+  background-color: aqua;
+  width: 80%;
+  margin: 20px;
+}
+h5{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+img{
+    width:"50%";
+    height:"50%";
+}
+/* Mis trabajos */
+
+#Mis-trabajos .image-top {
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .container h2,h3,h4{
+    text-align: center;
+
+  }
